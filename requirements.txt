@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+gradio_client
+huggingface_hub
+Pillow
+Flask
